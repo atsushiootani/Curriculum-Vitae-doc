@@ -5,6 +5,7 @@
 | Name | 大谷篤史 |
 | GitHub | [atsushiootani](https://github.com/atsushiootani) |
 | Location | 東京 |
+| Twitter (X) | [@atsushi_ootani](https://x.com/atsushi_ootani) |
 | LinkedIn | [www.linkedin.com/in/atsushi-otani-248006113](http://www.linkedin.com/in/atsushi-otani-248006113) |
 
 ## 大谷篤史 ── AIエージェント・アーキテクト / バックエンド・アーキテクト
